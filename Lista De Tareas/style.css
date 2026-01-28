@@ -1,0 +1,61 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    background: #f4f6f8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.container{
+    background: #fff;
+    padding: 25px;
+    border-radius: 20px;
+    width: 350px;
+}
+h1{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.inputGroup{
+    display: flex;
+    gap: 10px;
+}
+input{
+    flex: 1;
+    padding: 8px;
+}
+button{
+    padding: 8px 12px;
+    cursor: pointer;
+    border: none;
+    background: #007bff;
+    color: white;
+    border-radius: 10px;
+}
+ul{
+    list-style: none;
+    padding: 0;
+    margin-top: 20px;   
+}
+li{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+}
+li.completed span{
+    text-decoration: line-through;
+    color: gray;
+}
+.delete-Btn{
+    background: red;
+    color: #f4f6f8;
+    border: none;
+    padding: 4px 8px;
+    border-radius: 5px;
+    cursor: pointer;
+}
