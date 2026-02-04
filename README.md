@@ -25,3 +25,15 @@ El proyecto fue creado para practicar manipulación del DOM, manejo de eventos y
 - LocalStorage  
 
 ---
+
+## Objetivo del proyecto
+
+- Practicar manipulación del DOM
+- Manejo de eventos de usuario
+- Persistencia de datos en el navegador
+- Organización de código en JavaScript
+
+
+## autor 
+Nicolas Arias 
+Desarrollador Frontend Jr
