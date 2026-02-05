@@ -36,4 +36,5 @@ El proyecto fue creado para practicar manipulación del DOM, manejo de eventos y
 
 ## autor 
 Nicolas Arias 
+
 Desarrollador Frontend Jr
